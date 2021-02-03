@@ -1,6 +1,6 @@
 ---
 name: Quest bug report
-about: Create a report to help us improve
+about: Quest related bug
 title: "[QUEST] Quest name"
 labels: ''
 assignees: AAGene

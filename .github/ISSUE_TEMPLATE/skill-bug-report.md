@@ -1,6 +1,6 @@
 ---
 name: Skill bug report
-about: Create a report to help us improve
+about: Skill related bug
 title: "[SKILL] Skill name"
 labels: ''
 assignees: AAGene
